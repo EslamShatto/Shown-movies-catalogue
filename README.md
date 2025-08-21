@@ -28,5 +28,12 @@ date_added : each platform may have its unique date added for its own shows
 we also handeld null values and replaced them with 'unknown' since most of our data is varchar
 **Power BI**
 we then imported our final table catalog to power bi and proceed to create our dashboard
+(Screenshot 2025-08-21 102555.png)
+we have our dashboard divided into 4 parts 
+Name/synobsis : shows the name of the show and the synobisis, our main window
+genre chart : displays the number of shows per genre and adds filter based on genre
+cast, director and country : slicers to help filter shows based on director cast and country
+Streaming service pie chart : shows our 3 services whith how many show for each of them , allows filtering based on platform by selecting our desired services
+
 
 
